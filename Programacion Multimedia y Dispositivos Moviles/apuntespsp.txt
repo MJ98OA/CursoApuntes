@@ -1,0 +1,4 @@
+cuando vayamos a importar otro proyecto de una persona modificaremos el sdk dependiendo 
+de como sea el proyecto sera mas facil importarlo o no todo por el sdk
+
+nosotros usaremos gradle 
